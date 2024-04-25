@@ -21,6 +21,6 @@ In the 'tests' directory, the .in and .out files represent expected input and ou
 
 The following code runs the program with the inputs from t11.in:
 ```bash
-ruby lab3.rb < ./tests/t11.in
+ruby RPSLS.rb < ./tests/t11.in
 ```
 The output should be the same as what is in t11.out
